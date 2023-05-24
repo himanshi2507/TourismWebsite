@@ -21,7 +21,7 @@
 }
 
 .background{
-    transform: translateZ(-40px) scale(6);
+    transform: translateZ(-40px) scale(7);
 }
 
 .foreground{
@@ -40,7 +40,7 @@ h1{
     position: absolute;
     top:5rem;
 
-    font-size:10rem;
+    font-size:9vw;
     letter-spacing:4px;
     color:white;
     text-shadow:0 0 10px rgba(0,0,0,0.3);
@@ -53,13 +53,13 @@ section{
 }
 
 .secHeading{
-    font-size:5rem;
+    font-size:8vw;
     padding:0 10rem;
 }
 
 .text{
     font-size:1.5rem;
-    padding: 0 10rem;
+    padding: 0 2vw;
     margin: 5rem 0;
 }
 
@@ -75,7 +75,7 @@ section{
 .desc{
     position: absolute;
     background-color: white;   
-    padding: 0.5rem 2.5rem;
+    padding: 0.5vw 2.5vw;
     top:50%;
     left:50%;
     transform: translateX(-50%) translateY(-50%);
